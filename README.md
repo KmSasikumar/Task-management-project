@@ -1,33 +1,45 @@
-Project Overview : Zidio Task Management
+# Zidio Task Management
 
-"A web-based task management system offering task tracking, collaboration tools, and detailed analytics for improved productivity."
+> A streamlined, web-based productivity solution designed to simplify task tracking and team collaboration.
 
+## 📖 Project Overview
+Zidio Task Management is a responsive web application that helps users organize their daily workflow. It provides an intuitive dashboard for managing tasks, tracking deadlines, and visualizing progress through interactive charts.
 
-* Integrated user authentication via email, password, Google, and LinkedIn, with a "Forgot Password" feature.
-* Designed a professional Home Page with Zidio branding and quick access to key sections like About, Services, and Task Management.
-* Created an About Page showcasing Zidio Development details with teamwork visuals.
-* Implemented a Services Page highlighting tools for task creation, collaboration, progress tracking, and planning.
-* Designed a Task Page for managing tasks with options to add, edit, delete, and view detailed task information.
-* Built a Task Statistics Page with graphical representations of task statuses like Open, Completed, and Overdue.
-* Included features for categorizing tasks: All, Unassigned, Assigned, Overdue, Due Today, and Due This Week.
-* Developed a Help Page with company contact details and a user-friendly feedback section.
+## 🚀 Key Features
 
+### 🖥️ Application Dashboard
+*   **Task Management**: Create, edit, and delete tasks in real-time.
+*   **Status Tracking**: Visual indicators for "Overdue", "Due Today", and "Completed" tasks.
+*   **Analytics**: Integrated charts and statistics to monitor productivity logic.
+*   **Responsive Sidebar**: Easy navigation between different task views (Unassigned, Assigned, Overdue).
 
-Technologies Used: HTML , CSS , JAVASCRIPT & Modern Frameworks
+### 🌐 Website Modules
+*   **Login Interface**: Professional front-end design for user authentication (Email, Google, LinkedIn).
+*   **Home & Services**: Landing pages showcasing the platform's capabilities and service offerings.
+*   **About & Contact**: Dedicated sections for team information and user support.
 
+## 🛠️ Technical Stack
+*   **Frontend**: HTML5, CSS3, Vanilla JavaScript (ES6+)
+*   **Architecture**: Client-Side Monolithic (No external backend dependency)
+*   **Assets**: Custom icons and optimized image assets.
 
-Output : 
+## 📸 Screenshots
+![Dashboard Overview](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%201.png) 
+![Task List](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%202.png) 
+![Analytics](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%203.png) 
+![Services](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%204.png) 
+![About Us](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%205.png) 
+![Login Page](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%206.png) 
+![Mobile View](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%207.png) 
 
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%201.png) 
+## 📦 How to Use
+1.  Clone the repository.
+2.  Open `Login.html` to enter the application flow.
+3.  Click "Login" to access the dashboard (Demo Mode).
+4.  Navigate to `Task.html` to manage your tasks.
 
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%202.png) 
-
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%203.png) 
-
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%204.png) 
-
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%205.png) 
-
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%206.png) 
-
-![image alt](https://github.com/ayushmoudekar/Zidio-Task-Management/blob/f340cebf1f5f3b579daf72b07fccb1e1a6fc4928/Output/Output%207.png) 
+## 👨‍💻 Author
+**K. Sasi Kumar**
+* 🎓 VIT Bhopal University
+* 📧 Kommamani012@gmail.com
+* 📱 +91 8985037606
